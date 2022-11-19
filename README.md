@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Other places I might be:
 
-- <a rel="me" href="https://fediverse.speckledmonkey.com/@aj">...in the fediverse</a>
+- <a rel="me" href="https://fediverse.speckledmonkey.com/@aj">...on Mastodon</a>
 - <a href="https://dev.to/ajkerrigan">...on Dev</a>
 - <a href="https://pybit.es/community/">...in the PyBites Community</a>
